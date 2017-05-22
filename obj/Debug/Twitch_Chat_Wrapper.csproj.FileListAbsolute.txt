@@ -1,0 +1,12 @@
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\obj\Debug\Twitch_Chat_Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\obj\Debug\Twitch_Chat_Wrapper.Form1.resources
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\obj\Debug\Twitch_Chat_Wrapper.Properties.Resources.resources
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\obj\Debug\Twitch_Chat_Wrapper.csproj.GenerateResource.Cache
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\bin\Debug\Twitch_Chat_Wrapper.exe.config
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\bin\Debug\Twitch_Chat_Wrapper.exe
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\bin\Debug\Twitch_Chat_Wrapper.pdb
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\obj\Debug\Twitch_Chat_Wrapper.exe
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\obj\Debug\Twitch_Chat_Wrapper.pdb
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\brian\Development\CSharp\Twitch_Chat_Wrapper\Twitch_Chat_Wrapper\bin\Debug\HtmlAgilityPack.xml

@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+bin/Debug/HtmlAgilityPack.dll
+bin/Debug/HtmlAgilityPack.xml
+bin/Debug/HtmlAgilityPack.pdb
+obj/Debug/Twitch_Chat_Wrapper.exe
+bin/Debug/Twitch_Chat_Wrapper.exe
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
